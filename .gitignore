@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+git rm Bank_customer_segmentation.ipynb
+git commit -m "remove Bank_customer_segmentation.ipynb"
